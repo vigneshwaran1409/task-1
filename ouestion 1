@@ -1,0 +1,10 @@
+A blog about on difference between HTTP1.1 vs HTTP2
+HTTP-Hyper text transfer protocol
+Sever ways supporting sever push,multiplexing of requests,and header compression
+Document specifies internet standards track protocol for the internet community
+Top-level application protocol that exchanges information between client a local or remote web sever
+
+HTTP2
+uses binary encoding rather than text encoding
+making it more efficient to push the serveral
+greatly increasing the flexibility of data transfer

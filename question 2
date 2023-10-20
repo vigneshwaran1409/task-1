@@ -1,0 +1,3 @@
+A blog about objects and its internal representation in javascript
+Javascript is a object collection of key-value pairs that represent properties of an entity
+Data type forms the building data-type(number,string,boolean,null,undefined and symbol)
